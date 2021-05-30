@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="inetBankingV1">
+
+
+  <listeners>
+                 <listener class-name="com.inetBanking.utilities.Reporting"/> 
+  </listeners>
+
+  <test name="testCases1">
+    <parameter name="browser" value="FiReFOx" />
+          <classes>
+           <class name="com.inetBanking.testCases1.TC_Login_001"/>
+              <class name="com.inetBanking.testCases1.TC_Login_001"/>
+              <class name="com.inetBanking.testCases1.TC_LoginDDT_002"/>
+           <class name="com.inetBanking.testCases1.TC_AddCustomerTest_003"/>  
+          </classes>
+  </test> <!-- Test -->
+
+
+</suite> <!-- Suite -->

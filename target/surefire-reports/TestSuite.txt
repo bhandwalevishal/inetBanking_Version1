@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 149.978 s <<< FAILURE! - in TestSuite
+com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr4455, sdfds](2)  Time elapsed: 6.015 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:35)
+
+com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr789, asdfa](3)  Time elapsed: 6.099 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:35)
+
+com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr164225, jahetAp](4)  Time elapsed: 5.584 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:35)
+
+com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr9685, fhgf](5)  Time elapsed: 6.235 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:35)
+
