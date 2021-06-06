@@ -308,3 +308,65 @@
 2021-05-30 16:00:48,696 [main] INFO Banking - password is provided 
 2021-05-30 16:00:54,477 [main] WARN Banking - Login Passed
 2021-05-30 16:01:39,146 [main] INFO Banking - TC_Login_001 : Passed
+2021-06-01 18:53:51,433 [main] INFO Banking - URL is Opened
+2021-06-01 18:53:51,749 [main] INFO Banking - Username is Entered
+2021-06-01 18:54:06,847 [main] INFO Banking - Password is Entered
+2021-06-01 18:54:07,030 [main] INFO Banking - TC_Login_001 : FAILED
+2021-06-01 18:54:15,759 [main] INFO Banking - user name is provided 
+2021-06-01 18:54:15,822 [main] INFO Banking - password is provided 
+2021-06-01 18:54:22,334 [main] INFO Banking - user name is provided 
+2021-06-01 18:54:22,381 [main] INFO Banking - password is provided 
+2021-06-01 18:54:27,375 [main] INFO Banking - user name is provided 
+2021-06-01 18:54:27,435 [main] INFO Banking - password is provided 
+2021-06-01 18:54:33,860 [main] INFO Banking - user name is provided 
+2021-06-01 18:54:33,907 [main] INFO Banking - password is provided 
+2021-06-01 18:54:40,341 [main] INFO Banking - user name is provided 
+2021-06-01 18:54:40,387 [main] INFO Banking - password is provided 
+2021-06-01 18:54:45,996 [main] INFO Banking - user name is provided 
+2021-06-01 18:54:46,056 [main] INFO Banking - password is provided 
+2021-06-01 18:58:06,862 [main] INFO Banking - URL is Opened
+2021-06-01 18:58:07,014 [main] INFO Banking - Username is Entered
+2021-06-01 18:58:22,089 [main] INFO Banking - Password is Entered
+2021-06-01 18:58:22,213 [main] INFO Banking - TC_Login_001 : FAILED
+2021-06-01 18:58:28,963 [main] INFO Banking - user name is provided 
+2021-06-01 18:58:29,027 [main] INFO Banking - password is provided 
+2021-06-01 18:58:34,589 [main] INFO Banking - user name is provided 
+2021-06-01 18:58:34,637 [main] INFO Banking - password is provided 
+2021-06-01 18:58:40,050 [main] INFO Banking - user name is provided 
+2021-06-01 18:58:40,093 [main] INFO Banking - password is provided 
+2021-06-01 18:58:45,480 [main] INFO Banking - user name is provided 
+2021-06-01 18:58:45,537 [main] INFO Banking - password is provided 
+2021-06-01 18:58:50,918 [main] INFO Banking - user name is provided 
+2021-06-01 18:58:50,973 [main] INFO Banking - password is provided 
+2021-06-01 18:58:56,412 [main] INFO Banking - user name is provided 
+2021-06-01 18:58:56,466 [main] INFO Banking - password is provided 
+2021-06-01 19:03:53,031 [main] INFO Banking - URL is Opened
+2021-06-01 19:03:53,164 [main] INFO Banking - Username is Entered
+2021-06-01 19:04:08,366 [main] INFO Banking - Password is Entered
+2021-06-01 19:04:08,456 [main] INFO Banking - TC_Login_001 : FAILED
+2021-06-01 19:04:15,496 [main] INFO Banking - user name is provided 
+2021-06-01 19:04:15,551 [main] INFO Banking - password is provided 
+2021-06-01 19:04:21,783 [main] INFO Banking - user name is provided 
+2021-06-01 19:04:21,853 [main] INFO Banking - password is provided 
+2021-06-01 19:04:27,465 [main] INFO Banking - user name is provided 
+2021-06-01 19:04:27,514 [main] INFO Banking - password is provided 
+2021-06-01 19:04:33,637 [main] INFO Banking - user name is provided 
+2021-06-01 19:04:33,688 [main] INFO Banking - password is provided 
+2021-06-01 19:04:39,475 [main] INFO Banking - user name is provided 
+2021-06-01 19:04:39,738 [main] INFO Banking - password is provided 
+2021-06-01 19:07:47,582 [main] INFO Banking - URL is Opened
+2021-06-01 19:07:47,701 [main] INFO Banking - Username is Entered
+2021-06-01 19:08:02,897 [main] INFO Banking - Password is Entered
+2021-06-01 19:08:02,994 [main] INFO Banking - TC_Login_001 : FAILED
+2021-06-01 19:08:10,025 [main] INFO Banking - user name is provided 
+2021-06-01 19:08:10,078 [main] INFO Banking - password is provided 
+2021-06-01 19:08:15,566 [main] INFO Banking - user name is provided 
+2021-06-01 19:08:15,608 [main] INFO Banking - password is provided 
+2021-06-01 19:08:20,931 [main] INFO Banking - user name is provided 
+2021-06-01 19:08:20,972 [main] INFO Banking - password is provided 
+2021-06-01 19:08:26,904 [main] INFO Banking - user name is provided 
+2021-06-01 19:08:26,976 [main] INFO Banking - password is provided 
+2021-06-01 19:08:32,603 [main] INFO Banking - user name is provided 
+2021-06-01 19:08:32,679 [main] INFO Banking - password is provided 
+2021-06-01 19:08:38,826 [main] INFO Banking - user name is provided 
+2021-06-01 19:08:38,879 [main] INFO Banking - password is provided 

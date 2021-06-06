@@ -1,20 +1,38 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 149.978 s <<< FAILURE! - in TestSuite
-com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr4455, sdfds](2)  Time elapsed: 6.015 s  <<< FAILURE!
+Tests run: 8, Failures: 7, Errors: 0, Skipped: 0, Time elapsed: 78.343 s <<< FAILURE! - in TestSuite
+com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr325656, eseqAze](1)  Time elapsed: 5.609 s  <<< FAILURE!
 junit.framework.AssertionFailedError
 	at com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:35)
 
-com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr789, asdfa](3)  Time elapsed: 6.099 s  <<< FAILURE!
+com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr4455, sdfds](2)  Time elapsed: 5.378 s  <<< FAILURE!
 junit.framework.AssertionFailedError
 	at com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:35)
 
-com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr164225, jahetAp](4)  Time elapsed: 5.584 s  <<< FAILURE!
+com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr789, asdfa](3)  Time elapsed: 5.604 s  <<< FAILURE!
 junit.framework.AssertionFailedError
 	at com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:35)
 
-com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr9685, fhgf](5)  Time elapsed: 6.235 s  <<< FAILURE!
+com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr164225, jahetAp](4)  Time elapsed: 6.02 s  <<< FAILURE!
 junit.framework.AssertionFailedError
 	at com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:35)
+
+com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr9685, fhgf](5)  Time elapsed: 6.241 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:35)
+
+com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT[mngr325656, eseqAze](6)  Time elapsed: 6.311 s  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at com.inetBanking.testCases1.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:35)
+
+com.inetBanking.testCases1.TC_AddCustomerTest_003.addNewCustmrer  Time elapsed: 4.988 s  <<< FAILURE!
+org.openqa.selenium.UnhandledAlertException: 
+Unexpected modal dialog (text: User or Password is not valid): User or Password is not valid
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'DESKTOP-Q9EH2PL', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: true, browserName: firefox, cssSelectorsEnabled: true, databaseEnabled: true, handlesAlerts: true, javascriptEnabled: true, locationContextEnabled: true, nativeEvents: false, platform: WINDOWS, platformName: WINDOWS, rotatable: false, takesScreenshot: true, version: 47.0.2, webStorageEnabled: true}
+Session ID: 483643ca-93ca-45cf-acf6-ed9ab2a9f008
+	at com.inetBanking.testCases1.TC_AddCustomerTest_003.addNewCustmrer(TC_AddCustomerTest_003.java:26)
 

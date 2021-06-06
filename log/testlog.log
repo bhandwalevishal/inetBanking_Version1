@@ -308,3 +308,65 @@
 2021-05-30 16:00:48,696 - Banking -INFO - password is provided 
 2021-05-30 16:00:54,477 - Banking -WARN - Login Passed
 2021-05-30 16:01:39,146 - Banking -INFO - TC_Login_001 : Passed
+2021-06-01 18:53:51,433 - Banking -INFO - URL is Opened
+2021-06-01 18:53:51,749 - Banking -INFO - Username is Entered
+2021-06-01 18:54:06,847 - Banking -INFO - Password is Entered
+2021-06-01 18:54:07,030 - Banking -INFO - TC_Login_001 : FAILED
+2021-06-01 18:54:15,759 - Banking -INFO - user name is provided 
+2021-06-01 18:54:15,822 - Banking -INFO - password is provided 
+2021-06-01 18:54:22,334 - Banking -INFO - user name is provided 
+2021-06-01 18:54:22,381 - Banking -INFO - password is provided 
+2021-06-01 18:54:27,375 - Banking -INFO - user name is provided 
+2021-06-01 18:54:27,435 - Banking -INFO - password is provided 
+2021-06-01 18:54:33,860 - Banking -INFO - user name is provided 
+2021-06-01 18:54:33,907 - Banking -INFO - password is provided 
+2021-06-01 18:54:40,341 - Banking -INFO - user name is provided 
+2021-06-01 18:54:40,387 - Banking -INFO - password is provided 
+2021-06-01 18:54:45,996 - Banking -INFO - user name is provided 
+2021-06-01 18:54:46,056 - Banking -INFO - password is provided 
+2021-06-01 18:58:06,862 - Banking -INFO - URL is Opened
+2021-06-01 18:58:07,014 - Banking -INFO - Username is Entered
+2021-06-01 18:58:22,089 - Banking -INFO - Password is Entered
+2021-06-01 18:58:22,213 - Banking -INFO - TC_Login_001 : FAILED
+2021-06-01 18:58:28,963 - Banking -INFO - user name is provided 
+2021-06-01 18:58:29,027 - Banking -INFO - password is provided 
+2021-06-01 18:58:34,589 - Banking -INFO - user name is provided 
+2021-06-01 18:58:34,637 - Banking -INFO - password is provided 
+2021-06-01 18:58:40,050 - Banking -INFO - user name is provided 
+2021-06-01 18:58:40,093 - Banking -INFO - password is provided 
+2021-06-01 18:58:45,480 - Banking -INFO - user name is provided 
+2021-06-01 18:58:45,537 - Banking -INFO - password is provided 
+2021-06-01 18:58:50,918 - Banking -INFO - user name is provided 
+2021-06-01 18:58:50,973 - Banking -INFO - password is provided 
+2021-06-01 18:58:56,412 - Banking -INFO - user name is provided 
+2021-06-01 18:58:56,466 - Banking -INFO - password is provided 
+2021-06-01 19:03:53,031 - Banking -INFO - URL is Opened
+2021-06-01 19:03:53,164 - Banking -INFO - Username is Entered
+2021-06-01 19:04:08,366 - Banking -INFO - Password is Entered
+2021-06-01 19:04:08,456 - Banking -INFO - TC_Login_001 : FAILED
+2021-06-01 19:04:15,496 - Banking -INFO - user name is provided 
+2021-06-01 19:04:15,551 - Banking -INFO - password is provided 
+2021-06-01 19:04:21,783 - Banking -INFO - user name is provided 
+2021-06-01 19:04:21,853 - Banking -INFO - password is provided 
+2021-06-01 19:04:27,465 - Banking -INFO - user name is provided 
+2021-06-01 19:04:27,514 - Banking -INFO - password is provided 
+2021-06-01 19:04:33,637 - Banking -INFO - user name is provided 
+2021-06-01 19:04:33,688 - Banking -INFO - password is provided 
+2021-06-01 19:04:39,475 - Banking -INFO - user name is provided 
+2021-06-01 19:04:39,738 - Banking -INFO - password is provided 
+2021-06-01 19:07:47,582 - Banking -INFO - URL is Opened
+2021-06-01 19:07:47,701 - Banking -INFO - Username is Entered
+2021-06-01 19:08:02,897 - Banking -INFO - Password is Entered
+2021-06-01 19:08:02,994 - Banking -INFO - TC_Login_001 : FAILED
+2021-06-01 19:08:10,025 - Banking -INFO - user name is provided 
+2021-06-01 19:08:10,078 - Banking -INFO - password is provided 
+2021-06-01 19:08:15,566 - Banking -INFO - user name is provided 
+2021-06-01 19:08:15,608 - Banking -INFO - password is provided 
+2021-06-01 19:08:20,931 - Banking -INFO - user name is provided 
+2021-06-01 19:08:20,972 - Banking -INFO - password is provided 
+2021-06-01 19:08:26,904 - Banking -INFO - user name is provided 
+2021-06-01 19:08:26,976 - Banking -INFO - password is provided 
+2021-06-01 19:08:32,603 - Banking -INFO - user name is provided 
+2021-06-01 19:08:32,679 - Banking -INFO - password is provided 
+2021-06-01 19:08:38,826 - Banking -INFO - user name is provided 
+2021-06-01 19:08:38,879 - Banking -INFO - password is provided 
