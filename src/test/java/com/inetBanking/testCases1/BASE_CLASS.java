@@ -11,6 +11,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.testng.annotations.AfterClass;
@@ -44,7 +45,7 @@ public class BASE_CLASS {
     
   @Parameters("browser")  
   @BeforeClass
-  public void setUp(String br) 
+  public void setUp(String br) throws InterruptedException 
       {	  
 
       logger=Logger.getLogger("Banking");
@@ -60,10 +61,11 @@ public class BASE_CLASS {
                 {
        			System.setProperty("webdriver.chrome.driver",readconfig.getChromePath());
        			driver = new ChromeDriver();
+        
                 }
          
                 driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
-                driver.get(baseUrl);
+                //driver.get(baseUrl);
          
 	  }
   

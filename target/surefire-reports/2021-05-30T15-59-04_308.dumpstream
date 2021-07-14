@@ -1,4 +1,0 @@
-# Created at 2021-05-30T15:59:08.019
-Boot Manifest-JAR contains absolute paths in classpath 'G:\Selenium Software\New Java\JBK Eclipse Configured 32-bit\JBK Eclipse Configured\eclipse\NewJavaWorkplace\inetBankingV1\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-

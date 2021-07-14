@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [inetBankingV1]]">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [inetBankingV1]">
   <listeners>
     <listener class-name="com.inetBanking.utilities.Reporting"/>
   </listeners>
-  <test name="testCases1(failed)(failed)">
-    <parameter name="browser" value="FiReFOx"/>
+  <test name="testCases1(failed)">
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases1.TC_LoginDDT_002">
+      <class name="com.inetBanking.testCases1.TC_AddCustomerTest_3_WithChromeDevProtocol">
         <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="loginDDT" invocation-numbers="1 2 3 4"/>
+          <include name="addNewCustmrer"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases1.TC_LoginDDT_002 -->
+      </class> <!-- com.inetBanking.testCases1.TC_AddCustomerTest_3_WithChromeDevProtocol -->
     </classes>
-  </test> <!-- testCases1(failed)(failed) -->
-</suite> <!-- Failed suite [Failed suite [inetBankingV1]] -->
+  </test> <!-- testCases1(failed) -->
+</suite> <!-- Failed suite [inetBankingV1] -->

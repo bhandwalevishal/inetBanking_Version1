@@ -3,13 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.inetBanking.testCases1.TC_Login_001">
+      <class name="com.inetBanking.testCases1.TC_AddCustomerTest_3_WithChromeDevProtocol">
         <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="loginTest"/>
+          <include name="addNewCustmrer"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases1.TC_Login_001 -->
+      </class> <!-- com.inetBanking.testCases1.TC_AddCustomerTest_3_WithChromeDevProtocol -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

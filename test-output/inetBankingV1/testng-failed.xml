@@ -5,22 +5,13 @@
     <listener class-name="com.inetBanking.utilities.Reporting"/>
   </listeners>
   <test name="testCases1(failed)">
-    <parameter name="browser" value="FiReFOx"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases1.TC_AddCustomerTest_003">
+      <class name="com.inetBanking.testCases1.TC_AddCustomerTest_3_WithChromeDevProtocol">
         <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
           <include name="addNewCustmrer"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases1.TC_AddCustomerTest_003 -->
-      <class name="com.inetBanking.testCases1.TC_LoginDDT_002">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="loginDDT" invocation-numbers="1 2 3 4"/>
-        </methods>
-      </class> <!-- com.inetBanking.testCases1.TC_LoginDDT_002 -->
+      </class> <!-- com.inetBanking.testCases1.TC_AddCustomerTest_3_WithChromeDevProtocol -->
     </classes>
   </test> <!-- testCases1(failed) -->
 </suite> <!-- Failed suite [inetBankingV1] -->

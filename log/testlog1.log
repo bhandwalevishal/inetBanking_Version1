@@ -370,3 +370,56 @@
 2021-06-01 19:08:32,679 [main] INFO Banking - password is provided 
 2021-06-01 19:08:38,826 [main] INFO Banking - user name is provided 
 2021-06-01 19:08:38,879 [main] INFO Banking - password is provided 
+2021-06-23 13:20:22,817 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 13:20:29,666 [TestNG-test=testCases1-1] INFO Banking - Username is Entered
+2021-06-23 13:20:29,668 [TestNG-test=testCases1-2] INFO Banking - user name is provided 
+2021-06-23 13:20:30,659 [TestNG-test=testCases1-2] INFO Banking - password is provided 
+2021-06-23 13:20:38,471 [TestNG-test=testCases1-2] INFO Banking - user name is provided 
+2021-06-23 13:20:38,656 [TestNG-test=testCases1-2] INFO Banking - password is provided 
+2021-06-23 13:20:45,382 [TestNG-test=testCases1-2] INFO Banking - user name is provided 
+2021-06-23 13:20:45,548 [TestNG-test=testCases1-2] INFO Banking - password is provided 
+2021-06-23 13:20:45,667 [TestNG-test=testCases1-1] INFO Banking - Password is Entered
+2021-06-23 13:20:49,544 [TestNG-test=testCases1-2] WARN Banking - Login Passed
+2021-06-23 13:36:42,599 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 13:36:43,945 [TestNG-test=testCases1-1] INFO Banking - Username is Entered
+2021-06-23 13:36:44,638 [TestNG-test=testCases1-2] INFO Banking - user name is provided 
+2021-06-23 13:36:44,684 [TestNG-test=testCases1-2] INFO Banking - password is provided 
+2021-06-23 13:36:51,689 [TestNG-test=testCases1-2] INFO Banking - user name is provided 
+2021-06-23 13:36:51,738 [TestNG-test=testCases1-2] INFO Banking - password is provided 
+2021-06-23 13:36:56,632 [TestNG-test=testCases1-2] INFO Banking - user name is provided 
+2021-06-23 13:36:56,677 [TestNG-test=testCases1-2] INFO Banking - password is provided 
+2021-06-23 13:36:59,024 [TestNG-test=testCases1-1] INFO Banking - Password is Entered
+2021-06-23 13:37:00,140 [TestNG-test=testCases1-2] WARN Banking - Login Passed
+2021-06-23 13:40:53,475 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 13:40:55,720 [TestNG-test=testCases1-2] INFO Banking - user name is provided 
+2021-06-23 13:40:55,770 [TestNG-test=testCases1-2] INFO Banking - password is provided 
+2021-06-23 13:41:02,137 [TestNG-test=testCases1-2] INFO Banking - user name is provided 
+2021-06-23 13:41:02,185 [TestNG-test=testCases1-2] INFO Banking - password is provided 
+2021-06-23 13:41:05,662 [TestNG-test=testCases1-2] WARN Banking - Login Passed
+2021-06-23 13:42:06,164 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 13:42:06,323 [TestNG-test=testCases1-1] INFO Banking - Username is Entered
+2021-06-23 13:42:21,388 [TestNG-test=testCases1-1] INFO Banking - Password is Entered
+2021-06-23 13:42:21,517 [TestNG-test=testCases1-1] INFO Banking - TC_Login_001 : FAILED
+2021-06-23 13:43:55,169 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 13:43:55,325 [TestNG-test=testCases1-1] INFO Banking - Username is Entered
+2021-06-23 13:44:10,389 [TestNG-test=testCases1-1] INFO Banking - Password is Entered
+2021-06-23 13:44:10,481 [TestNG-test=testCases1-1] INFO Banking - TC_Login_001 : FAILED
+2021-06-23 13:44:45,375 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 13:44:45,526 [TestNG-test=testCases1-1] INFO Banking - Username is Entered
+2021-06-23 13:45:00,602 [TestNG-test=testCases1-1] INFO Banking - Password is Entered
+2021-06-23 13:45:15,945 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 13:45:16,099 [TestNG-test=testCases1-1] INFO Banking - Username is Entered
+2021-06-23 13:45:31,156 [TestNG-test=testCases1-1] INFO Banking - Password is Entered
+2021-06-23 20:40:40,770 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 20:41:31,703 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 20:41:55,760 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 20:42:18,606 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-06-23 20:49:01,267 [TestNG-test=testCases1-1] INFO Banking - URL is Opened
+2021-07-09 14:39:57,483 [main] INFO Banking - URL is Opened
+2021-07-09 14:40:07,721 [main] INFO Banking - Username is Entered
+2021-07-09 14:40:22,794 [main] INFO Banking - Password is Entered
+2021-07-09 14:40:23,038 [main] INFO Banking - TC_Login_001 : FAILED
+2021-07-09 14:40:55,952 [main] INFO Banking - URL is Opened
+2021-07-09 14:41:01,187 [main] INFO Banking - Username is Entered
+2021-07-09 14:41:16,277 [main] INFO Banking - Password is Entered
+2021-07-09 14:41:16,446 [main] INFO Banking - TC_Login_001 : FAILED
